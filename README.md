@@ -3,8 +3,6 @@
 Firebase Crashlytics is a lightweight, realtime crash reporter that helps you track, prioritise, and fix stability issues to improve your app quality.  
 
 You can test your implementation using `Crashlytics.getInstance().crash()` to cause a crash in your application.   
-The crash will appear in your Firebase console like this:  
-
 
 - There are a few tabs in the Session summary of our error trace:  
    **StackTrace**: Shows the error trace in your application code.  
